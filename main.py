@@ -1,9 +1,3 @@
-hi
-
-b = (1, 2, 3)
-# d = dict(b=100, s=3)
-for k in b.
-print(b)
 
 # birds=100
 # def print_texas():
